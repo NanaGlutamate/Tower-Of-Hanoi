@@ -1,2 +1,2 @@
 # Tower-Of-Hanoi
-A method solving the question of 'Tower Of Hanoi' with loop
+A solution of the question of 'Tower Of Hanoi'
